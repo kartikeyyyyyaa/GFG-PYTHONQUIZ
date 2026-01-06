@@ -16,6 +16,7 @@ The application is a CLI (Command Line Interface) tool that tests a user's knowl
 * **Key Modules:** `json`, `random`
 
 ## Project Structure
+```text
 ├── app.py           # The main Python script containing the quiz logic
 ├── questions.json   # Database of questions (Loops, Functions, Recursion)
 └── README.md        # Project documentation
