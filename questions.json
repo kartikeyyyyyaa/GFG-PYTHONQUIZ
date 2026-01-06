@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["function", "def", "define", "void"],
+        "answer": "def"
+    },
+    {
+        "question": "What will `range(1, 5)` generate?",
+        "options": ["1, 2, 3, 4, 5", "1, 2, 3, 4", "0, 1, 2, 3, 4", "2, 3, 4, 5"],
+        "answer": "1, 2, 3, 4"
+    },
+    {
+        "question": "Which statement is used to stop a loop immediately?",
+        "options": ["stop", "return", "break", "exit"],
+        "answer": "break"
+    },
+    {
+        "question": "What is a function that calls itself called?",
+        "options": ["Nested Function", "Recursive Function", "Loop Function", "Self Function"],
+        "answer": "Recursive Function"
+    },
+    {
+        "question": "In recursion, what prevents an infinite loop?",
+        "options": ["The Base Case", "The Break Statement", "The Return Value", "The Global Variable"],
+        "answer": "The Base Case"
+    },
+    {
+        "question": "Which keyword skips the current iteration and moves to the next one?",
+        "options": ["pass", "break", "continue", "skip"],
+        "answer": "continue"
+    },
+    {
+        "question": "What is the output of `bool([])` (an empty list)?",
+        "options": ["True", "False", "None", "Error"],
+        "answer": "False"
+    },
+    {
+        "question": "Which control structure is used for decision making?",
+        "options": ["for", "while", "if-elif-else", "def"],
+        "answer": "if-elif-else"
+    },
+    {
+        "question": "What happens if a recursive function has no base case?",
+        "options": ["It returns None", "RecursionError (Stack Overflow)", "It runs once", "Syntax Error"],
+        "answer": "RecursionError (Stack Overflow)"
+    },
+    {
+        "question": "Which of these is a valid placeholder statement that does nothing?",
+        "options": ["null", "void", "pass", "wait"],
+        "answer": "pass"
+    }
+]
